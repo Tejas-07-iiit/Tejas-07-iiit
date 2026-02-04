@@ -52,9 +52,7 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tejas-07-iiit&theme=github-dark&hide_border=a" alt="GitHub Streak"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Tejas-07-iiit)
 
 ---
 
