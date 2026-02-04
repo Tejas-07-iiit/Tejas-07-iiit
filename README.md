@@ -4,10 +4,18 @@
 <h2>👋 About Me:</h2>
 
 <div align="center">
-
-### I'm <span style="color:#4ea1ff">Tejas Ambaliya</span>
-
-**Full Stack Developer | MERN Stack | CS Undergraduate**
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com
+    ?font=Fira+Code
+    &size=28
+    &pause=1000
+    &color=4EA1FF
+    &center=true
+    &vCenter=true
+    &width=520
+    &lines=I'm+Tejas+Ambaliya" />
+</p>
 
 <br/>
 
@@ -50,7 +58,7 @@
 <tr>
 <td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tejas-07-iiit&show_icons=true&theme=dark&hide_border=true" />
 
 </td>
 </tr>
@@ -62,7 +70,7 @@
 <tr>
 <td align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-07-iiit&theme=dark&hide_border=true" />
 
 </td>
 </tr>
