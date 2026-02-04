@@ -1,76 +1,89 @@
-<!-- Gradient Banner -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&text=Tejas%20Ambaliya&fontSize=42&fontAlignY=55&fontColor=ffffff"/>
-</p>
+<!-- TOP SPACING -->
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=520&lines=" Hi + i + am + Tejas + Ambaliya" />
-</p>
-
-<hr/>
-
-<!-- About Me Card -->
-<h2 align="center">👋 About Me</h2>
-
-<p align="center">
-  💻 Full Stack Developer &nbsp;•&nbsp;
-  🎓 IIIT Surat &nbsp;•&nbsp;
-  ⚙️ MERN Stack &nbsp;•&nbsp;
-  🚀 Clean & Scalable Code
-</p>
-
-<p align="center">
-  🏆 <b>LeetCode:</b> 1462 &nbsp; | &nbsp;
-  <b>Codeforces:</b> 766
-</p>
-
----
-
-## 🛠 Tech Stack
+<h2>👋 About Me:</h2>
 
 <div align="center">
 
-### Frontend  
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+### I'm <span style="color:#4ea1ff">Tejas Ambaliya</span>
 
-### Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+**Full Stack Developer | MERN Stack | CS Undergraduate**
 
-### Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<br/>
 
-### Languages  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-
-### Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  I am a Computer Science student and Full Stack Developer with strong foundations in
+  JavaScript, REST APIs, and database-driven applications.  
+  Passionate about writing clean, scalable code and continuously improving system performance.
+</p>
 
 </div>
 
 ---
 
-## 🎓 Education
+<h2>🌐 Socials:</h2>
+
 <p align="center">
-  <b>B.Tech in Computer Science & Engineering</b><br/>
-  Indian Institute of Information Technology, Surat<br/>
-  CGPA: <b>7.24</b>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:tejas23106@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+<h2>🛠 Tech Skills:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,bootstrap,git,github,vscode,python,c,cpp&perline=8" />
 </p>
 
 ---
 
-<!-- Footer -->
+<h2>📊 GitHub Stats:</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2>🎓 Education:</h2>
+
+<div align="center">
+
+**Bachelor of Technology — Computer Science & Engineering**  
+Indian Institute of Information Technology, Surat  
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=70&section=footer"/>
 </p>
