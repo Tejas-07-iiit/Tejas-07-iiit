@@ -1,82 +1,76 @@
-<!-- Header Banner -->
+<!-- Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Tejas%20Ambaliya&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&text=Tejas%20Ambaliya&fontSize=42&fontAlignY=55&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <a href="mailto:tejas23106@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tejas23106%40gmail.com-red?style=flat&logo=gmail"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-black?style=flat&logo=github"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+Engineer;CS+Undergraduate+at+IIIT+Surat" />
+</p>
+
+<hr/>
+
+<!-- About Me Card -->
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  💻 Full Stack Developer &nbsp;•&nbsp;
+  🎓 IIIT Surat &nbsp;•&nbsp;
+  ⚙️ MERN Stack &nbsp;•&nbsp;
+  🚀 Clean & Scalable Code
+</p>
+
+<p align="center">
+  🏆 <b>LeetCode:</b> 1462 &nbsp; | &nbsp;
+  <b>Codeforces:</b> 766
 </p>
 
 ---
 
-## 👋 About Me
-- 💻 Full Stack Developer with strong **MERN Stack** experience  
-- 🎓 Computer Science Undergraduate at **IIIT Surat**  
-- ⚙️ Skilled in **JavaScript, REST APIs, and Database Integration**  
-- 🧠 Passionate about **clean code, scalability, and performance**  
-- 🏆 LeetCode Rating: **1462** | Codeforces Rating: **766**
+## 🛠 Tech Stack
 
----
+<div align="center">
 
-## 🛠️ Tech Stack & Skills
+### Frontend  
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
 
-### 🎨 Frontend
-<p align="center">
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
-</p>
+### Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+### Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+### Languages  
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-</p>
+### Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-### 🧰 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 📚 Core Computer Science
-- Data Structures & Algorithms  
-- Operating Systems  
-- Problem Solving  
+</div>
 
 ---
 
 ## 🎓 Education
-**Bachelor of Technology (B.Tech) — Computer Science & Engineering**  
-Indian Institute of Information Technology, Surat  
-📊 CGPA: **7.24** | Undergraduate (4th Semester)
-
----
-</p>
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <b>B.Tech in Computer Science & Engineering</b><br/>
+  Indian Institute of Information Technology, Surat<br/>
+  CGPA: <b>7.24</b>
 </p>
 
 ---
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent"/>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
