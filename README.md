@@ -1,97 +1,69 @@
-<!-- TOP SPACING -->
-<br/>
-
-<h2>👋 About Me:</h2>
-
 <div align="center">
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com
-    ?font=Fira+Code
-    &size=28
-    &pause=1000
-    &color=4EA1FF
-    &center=true
-    &vCenter=true
-    &width=520
-    &lines=I'm+Tejas+Ambaliya" />
-</p>
+
+<!-- Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Tejas+Ambaliya;" />
 
 <br/>
 
-<p align="center">
-  I am a Computer Science student and Full Stack Developer with strong foundations in
-  JavaScript, REST APIs, and database-driven applications.  
-  Passionate about writing clean, scalable code and continuously improving system performance.
+<p>
+  <b>Computer Science Undergraduate</b><br/>
+  Indian Institute of Information Technology, Surat
 </p>
 
-</div>
+<p>
+  Passionate about building <b>scalable web applications</b>
+</p>
+
 
 ---
 
-<h2>🌐 Socials:</h2>
+## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p padding:"3px">
+  <a href="https://github.com/Tejas-07-iiit">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://tejasambaliya.me">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:tejas23106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
 
 ---
 
-<h2>🛠 Tech Skills:</h2>
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,bootstrap,git,github,vscode,python,c,cpp&perline=8" />
-</p>
+### Languages & Core CS
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
+<br/>
+<sub>DSA • Operating Systems • Problem Solving</sub>
+
+<br/><br/>
+
+### Web Development (MERN)
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
+
+<br/><br/>
+
+### Tools & Design
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,git,github,vscode&theme=dark" />
+
+## 📊 GitHub Activity
+
+<img src="https://streak-stats.demolab.com?user=Tejas-07-iiit&theme=github-dark&hide_border=true" width="80%"/>
 
 ---
 
-<h2>📊 GitHub Stats:</h2>
+## 🎓 Education
 
-<div align="center">
+<b>B.Tech in Computer Science & Engineering</b><br/>
+Indian Institute of Information Technology, Surat
 
-<table>
-<tr>
-<td align="center">
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tejas-07-iiit&show_icons=true&theme=dark&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-07-iiit&theme=dark&hide_border=true" />
-
-</td>
-</tr>
-</table>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
-
----
-
-<h2>🎓 Education:</h2>
-
-<div align="center">
-
-**Bachelor of Technology — Computer Science & Engineering**  
-Indian Institute of Information Technology, Surat  
-
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=70&section=footer"/>
-</p>
